@@ -2,9 +2,6 @@ Deploying reproducible analytics environments for regulated use cases
 ================
 
 ### posit::conf(2025)
-
-by INSTRUCTOR_NAME
-
 -----
 
 The deployment of reproducible analytical environments is a critical topic in the regulated industries, especially for meeting regulatory requirements and ensuring reproducibility in research. This workshop aims to explore the multifaceted challenges and opportunities associated with provisioning and deploying R-based environments, drawing from experiences of deploying enterprise-scale analytical environments for regulatory filings.
@@ -56,9 +53,9 @@ ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO COMPLETE PRI
 
 ## Instructor(s)
 
-James Black, Novartis
-Orla Doyle, Novartis
-Doug Kelkhoff, Roche
-Michael Mayer, Posit
+James Black, Novartis  
+Orla Doyle, Novartis  
+Doug Kelkhoff, Roche  
+Michael Mayer, Posit  
 
 -----
